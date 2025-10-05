@@ -1,6 +1,4 @@
 # DA5401: Assignment 5
-
-## Student Information
 - **Name:** Karan Kishore 
 - **Roll Number:** DA25D400
 
